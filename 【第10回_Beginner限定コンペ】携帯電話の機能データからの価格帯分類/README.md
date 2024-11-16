@@ -1,5 +1,7 @@
 [【第10回_Beginner限定コンペ】携帯電話の機能データからの価格帯分類](https://signate.jp/competitions/461)
 
+rank: 68/135
+
 |model|private score|public score|
 |---|---|---|
 |lightgbm|0.4591869|0.4591869|
